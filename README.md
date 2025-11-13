@@ -3,7 +3,7 @@
 <div align="center">
 
   <h1> Ecommerce Cart</h1>
-  <p><strong>A Simple, Modern Shopping Cart & E-commerce Boilerplate</strong></p>
+  <p><strong>A Simple, Modern Shopping Cart & E-commerce with login/signup Authentication</strong></p>
 
   <p>
     <img src="https://img.shields.io/badge/React-%5E18-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
